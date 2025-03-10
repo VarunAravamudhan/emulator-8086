@@ -1,4 +1,4 @@
-# emulator-8086
+# DATA TRANSFER USING STACK
 ## Theory
 # Stack in Assembly
 The stack is a section of memory used for temporary storage. It operates in a LIFO (Last In, First Out) manner. The SP (Stack Pointer) register manages the stack.
@@ -22,7 +22,8 @@ OUT 70H, AL
 HLT
 ~~~
 # Output:
-![Uploading Screenshot 2025-03-10 085740.png…]()
+![Screenshot 2025-03-10 085740](https://github.com/user-attachments/assets/382395f2-2dbb-4d06-b521-3ce4a443215f)
+
 # Program Flow:
 ~~~
 MOV AX, BX → AX gets BX’s value.
