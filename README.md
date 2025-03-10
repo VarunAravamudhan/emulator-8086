@@ -1,4 +1,4 @@
-# DATA TRANSFER USING STACK
+![0981152b-fb28-46bc-a2f9-71a6701a7c6a](https://github.com/user-attachments/assets/a1e53903-9620-4e6d-8bba-c783dcc99689)![0981152b-fb28-46bc-a2f9-71a6701a7c6a](https://github.com/user-attachments/assets/18596bfe-63a7-4eb6-bcac-b3a0a188854d)# DATA TRANSFER USING STACK
 ## Theory
 # Stack in Assembly
 The stack is a section of memory used for temporary storage. It operates in a LIFO (Last In, First Out) manner. The SP (Stack Pointer) register manages the stack.
@@ -12,6 +12,9 @@ Data Transfer Using Stack
 Data is pushed onto the stack from registers.
 The stack pointer (SP) adjusts accordingly.
 Data is then popped into another register for processing or transfer.
+# Diagram:
+![0981152b-fb28-46bc-a2f9-71a6701a7c6a](https://github.com/user-attachments/assets/48109d6c-972a-49e7-9282-f3a90296814b)
+
 # Program:
 ~~~
 MOV AX, BX
